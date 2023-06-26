@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @septiandco
+- 👀 I’m interested in Front End Developer and Data
